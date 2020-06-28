@@ -10,11 +10,11 @@
 
 ## Notable Changes From the Previous Version of My Site
 
-**Fully Functional "Hamburger" nav menu using z-index property manipulation and basic Javascript/**
+**Fully Functional "Hamburger" nav menu using z-index property manipulation and basic Javascript**
 
-**Simple PHP integration which sends a user's inquiry directly to my GMail account/**
+**Simple PHP integration which sends a user's inquiry directly to my GMail account**
 
-**Completely reworked themes, colors, and headings in the CSS/**
+**Completely reworked themes, colors, and headings in the CSS**
 
 ## Screenshots
 
